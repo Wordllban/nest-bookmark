@@ -1,7 +1,9 @@
 ## Description
 
 Tiny project to learn Nest. 
-This application has JWT authorization and service to create/store bookmarks
+This application has JWT authorization and service to create/store bookmarks.
+
+Code covered with e2e tests, using Jest.
 
 ## Installation
 
